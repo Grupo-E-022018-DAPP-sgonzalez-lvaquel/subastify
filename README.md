@@ -24,24 +24,6 @@ Bootstrap dependencies
 lerna bootstrap
 ```
 
-Build Packages
-
-``` bash
-lerna run build
-```
-
-Run Migrations
-
-``` bash
-lerna run migrate
-```
-
-Run Seeds to populate data bases
-
-``` bash
-lerna run seed
-```
-
 Start Dev Server
 
 ``` bash
