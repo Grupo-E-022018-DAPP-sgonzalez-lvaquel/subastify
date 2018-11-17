@@ -18,6 +18,14 @@ Install Lerna
 npm install -g lerna
 ```
 
+Set environment variables
+
+``` bash
+AUTH_DOMAIN="<domain>"
+AUTH_CALLBACK_URL="http://localhost:3000/auth"
+AUTH_CLIENT_ID="<client_id>"
+```
+
 Bootstrap dependencies
 
 ``` bash
